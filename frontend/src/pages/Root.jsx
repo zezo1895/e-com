@@ -36,7 +36,7 @@ const Root = () => {
             
             display: "flex",
             justifyContent: "center",
-            mt: "66px",
+            mt: "66px", 
           }}
         >
           <Outlet />
